@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Commercial Freight Invoice Evidence",
+    "category": "Commercial",
+    "region": "US",
+    "description": "Commercial shipments require invoice number, freight description, cargo value, carrier name, and vehicle or trailer identifier."
+  },
+  {
+    "name": "Commercial Cargo Safety Attestation",
+    "category": "Commercial",
+    "region": "US",
+    "description": "Commercial cargo records must include weight declaration, bill of lading reference, and hazardous material attestation when applicable."
+  },
+  {
+    "name": "Passenger Fleet Transport Evidence",
+    "category": "Passenger",
+    "region": "US",
+    "description": "Passenger fleet invoices require passenger route, vehicle identifier, service date, operator name, and fare or service charge evidence."
+  },
+  {
+    "name": "General Shipping Identity Check",
+    "category": "General",
+    "region": "US",
+    "description": "All inspections require supplier name, invoice copy, vehicle identification, and shipment date."
+  }
+]

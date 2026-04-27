@@ -1,0 +1,11 @@
+INVOICE 1048
+Supplier: Northline Freight Services
+Fleet: Commercial tractor trailer
+Vehicle VIN: 1FT8W3BT9NEC00001
+Bill of Lading: BOL-99128
+Cargo: Palletized inspection equipment
+Cargo Value: 48250.00 USD
+Carrier: Northline Freight Services
+Shipment Date: 2026-04-27
+Weight Declaration: 8400 lbs
+
